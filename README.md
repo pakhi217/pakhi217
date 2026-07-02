@@ -1,4 +1,4 @@
-# <p align="center">🔮 ✨ 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕸𝖞 𝕯𝖎𝖌𝖎𝖙𝖆𝖑 𝕾𝖕𝖆𝖈𝖊 ✨ 🔮</p>
+# <p align="center">🔮 ✨ 𝒲𝑒𝓁𝒸ome 𝒯𝑜 𝑀𝓎 𝒪𝓇𝒷𝒾𝓉 ✨ 🔮</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=FF007F&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pakhi+Saxena!;ECE+Undergrad+%7C+AI+%26+ML;Open+Source+Contributor" alt="Typing Details" />
