@@ -31,8 +31,8 @@ I love turning complex ideas into functional code, building through hands-on exp
 <img src="https://img.shields.io/badge/Python-%23FF69B4.svg?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-%23FF1493.svg?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-%23FF69B4.svg?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-%23FF1493.svg?style=for-the-badge&logo=scipy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-%23FF69B4.svg?style=for-the-badge&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-%23FF1493.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 #### 💻 Programming & Hardware
-<img src="https://img.shields.io/badge/C-%23FF1493.svg?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-%23FF69B4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/KiCad-%23FF1493.svg?style=for-the-badge&logo=kicad&logoColor=white" />
 
+<img src="https://img.shields.io/badge/C-%23FF1493.svg?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-%23FF69B4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-%23FF1493.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-%23FF69B4.svg?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/KiCad-%23FF1493.svg?style=for-the-badge&logo=kicad&logoColor=white" />
 #### 🔧 Tools & Ecosystems
 <img src="https://img.shields.io/badge/Git-%23FF69B4.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=%23FF1493" /> <img src="https://img.shields.io/badge/VS_Code-%23FF1493.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Fortinet-%23FF69B4.svg?style=for-the-badge&logo=fortinet&logoColor=white" />
 
@@ -55,12 +55,17 @@ I love turning complex ideas into functional code, building through hands-on exp
 
 ---
 
+
+---
+
 ### 📊 System Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pakhi217&show_icons=true&theme=rose&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakhi217&layout=compact&theme=rose&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pakhi217&theme=synthwave" alt="GitHub Profile Details" width="98%" />
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pakhi217&theme=synthwave" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pakhi217&theme=synthwave" width="48%" />
+</p>
 ---
 
 ### 🎀 Signal Established
