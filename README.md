@@ -27,15 +27,16 @@ I love turning complex ideas into functional code, building through hands-on exp
 
 ### 🛠️ Tech Stack & Toolkit
 
+### 🛠️ Tech Stack & Toolkit
+
 #### 🧠 Data Science & AI/ML
-<img src="https://img.shields.io/badge/Python-%23FF69B4.svg?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-%23FF1493.svg?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-%23FF69B4.svg?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-%23FF1493.svg?style=for-the-badge&logo=scipy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-%23FF69B4.svg?style=for-the-badge&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-%23FF1493.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-%23FF69B4.svg?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-%23FF1493.svg?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-%23FF69B4.svg?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-%23FF1493.svg?style=for-the-badge&logo=scipy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-%23FF69B4.svg?style=for-the-badge&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-%23FF1493.svg?style=for-the-badge" /> <img src="https://img.shields.io/badge/Scikit--Learn-%23FF69B4.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-%23FF1493.svg?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-%23FF69B4.svg?style=for-the-badge&logo=flask&logoColor=white" />
 
 #### 💻 Programming & Hardware
-
 <img src="https://img.shields.io/badge/C-%23FF1493.svg?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-%23FF69B4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-%23FF1493.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-%23FF69B4.svg?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/KiCad-%23FF1493.svg?style=for-the-badge&logo=kicad&logoColor=white" />
+
 #### 🔧 Tools & Ecosystems
 <img src="https://img.shields.io/badge/Git-%23FF69B4.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=%23FF1493" /> <img src="https://img.shields.io/badge/VS_Code-%23FF1493.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Fortinet-%23FF69B4.svg?style=for-the-badge&logo=fortinet&logoColor=white" />
-
 ---
 
 ### 🏆 Verified Credentials & Simulations
